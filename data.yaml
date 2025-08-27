@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Non_Gorille', 'goriile_montagne', 'gorille_Autres']
+
+roboflow:
+  workspace: apprentissage-ogvcm
+  project: detectgorillem
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/apprentissage-ogvcm/detectgorillem/dataset/10

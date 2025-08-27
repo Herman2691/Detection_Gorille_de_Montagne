@@ -1,0 +1,2 @@
+# DetectGorilleM > 2025-08-16 9:24am
+Ce projet de recherche s’inscrit dans le domaine de la vision par ordinateur et consiste à mettre en place un système de reconnaissance automatique des gorilles, avec une attention particulière portée à l’identification des gorilles de montagne. Les données ont été annotées à l’aide de la plateforme Roboflow afin d’assurer une préparation adaptée à l’entraînement du modèle. L’étude propose un prototype expérimental basé sur l’architecture YOLOv8s pour la détection et utilisant Streamlit comme interface de visualisation et d’interaction
